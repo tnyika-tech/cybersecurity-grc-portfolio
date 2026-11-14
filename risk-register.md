@@ -1,18 +1,18 @@
-**Cybersecurity Risk Register**
-**Project Overview**
+# **Cybersecurity Risk Register**
+## **Project Overview**
 
 This risk register identifies potential cybersecurity risks affecting a fictional small business.
 The purpose is to identify threats, assess their likelihood and impact, and recommend appropriate controls to reduce the risks.
 
-**Risk Assessment**
+# **Risk Assessment**
 Risk scores are calculated using:
 **Risk Score**= **Likelihood** x **Impact**
-Scoring:
-1= Very low
-2= Low
-3= Medium
-4= High
-5= Very high
+###**Risk Scoring Criteria**:
+|1|=| Very low|
+|2|=| Low|
+|3|= |Medium|
+|4|= |High|
+|5|= |Very high|
 
 **Risk Register**
 **ID**        **Identified Risk**                     **Likelihood**     **Impact**   **Risk Score**  **Recommended Control**
