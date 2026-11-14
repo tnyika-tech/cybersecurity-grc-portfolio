@@ -1,10 +1,12 @@
-##**Al Jazeera Zero-Click Spyware Attack 2022: Independant GRC Case Study of Reported Attacks Targeting Journalists**
-#**Project Overview**
+#**Al Jazeera Zero-Click Spyware Attack 2022: Independant GRC Case Study of Reported Attacks Targeting Journalists**
+
+##**1. Project Overview**
 This project examines the zero-click spyware incident involving Al Jazeera journalists, using publicly available cybersecurity research and reporting.
 
 
 
-#**7. Research Ethics and Limitations**
+##**7. Research Ethics and Limitations**
+
 This project is conducted independently for educational and professional portfolio purposes. It relies exclusively on publicly available cybersecurity research, technical publications and credible media reporting
 ##The following ethical boundaries apply:
 - No penetration testing, vulnerability scanning or unauthorised security testing will be conducted against Al Jazeera or its associated infrastructure.
